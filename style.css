@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color:orange ;
+}
+
+.list {
+    width: 55%;
+    height: auto;
+    border: solid 3px gray;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px auto;
+    
+}
